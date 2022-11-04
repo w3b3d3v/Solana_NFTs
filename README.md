@@ -1,4 +1,4 @@
-# Projeto Solana NFT Drop do buildspace
+# Projeto Solana NFT Drop da WEB3DEV
 
 ### Bem-vindo! 👋
 Para começar com este curso, clone este repositório e siga estes comandos:
@@ -12,5 +12,5 @@ Para começar com este curso, clone este repositório e siga estes comandos:
 Se você usa o VSCode para criar seu aplicativo, incluímos uma lista de extensões sugeridas que ajudarão você a criar este projeto! Depois de abrir este projeto no VSCode, você verá um pop-up perguntando se deseja baixar as extensões recomendadas :).
 
 ### Perguntas?
-Se tiver algumas perguntas, acesse seu [buildspace Dashboard](https://app.buildspace.so/projects/CO77556be5-25e9-49dd-a799-91a2fc29520e) e vincule sua conta do Discord para ter acesso a canais úteis e a seu instrutor!
+Se tiver algumas perguntas, acesse seu [painel do Bootcamp da WEB3DEV](https://bootcamp.web3dev.com.br/) e vincule sua conta do Discord para ter acesso a canais úteis e a seu instrutor!
 
