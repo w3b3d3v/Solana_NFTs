@@ -13,8 +13,8 @@ const Home = () => {
                     <p className="sub-text">Máquina de NFTs com cunhagem justa</p>
                 </div>
                 <div className="footer-container">
-                    <img alt="Twitter Logo" className="twitter-logo" src={twitterLogo} />
-                    <a className="footer-text" href={TWITTER_LINK} target="_blank" rel="noreferrer">{`built on @${TWITTER_HANDLE}`}</a>
+                    <img alt="Twitter Logo" className="twitter-logo" src="twitter-logo.svg" />
+                    <a className="footer-text" href={TWITTER_LINK} target="_blank" rel="noreferrer">{`feito por @${TWITTER_HANDLE}`}</a>
                 </div>
             </div>
         </div>
