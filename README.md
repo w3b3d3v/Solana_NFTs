@@ -3,9 +3,9 @@
 ### Bem-vindo! 👋
 Para começar com este curso, clone este repositório e siga estes comandos:
 
-1. cd na pasta `app`
+1. Acesse a pasta app com o comando `cd app`
 2. Execute `npm install` na raiz do seu diretório
-3. Execute `npm run start` para iniciar o projeto
+3. Execute `npm run dev` para iniciar o projeto
 4. Comece a codificar!
 
 ### O que é a pasta .vscode?
